@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm a Data Analyst 👋
 
-<!--
-**durdan123-stac/durdan123-stac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm passionate about transforming raw data into meaningful insights
+that support smarter business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Microsoft Excel & Advanced Excel
+- Power BI & Data Visualization
+- SQL & Database Analysis
+- Python for Data Analytics
+- Power Query & Data Automation
+
+### 📊 Areas of Interest
+- Business Intelligence
+- Data Analytics & Reporting
+- Dashboard Development
+- KPI & Performance Analysis
+- Inventory & Operational Analytics
+- Internal Audit & Risk Analytics
+
+### 🎯 My Goal
+To leverage data analytics, automation, and business intelligence
+to improve operational efficiency and business performance.
